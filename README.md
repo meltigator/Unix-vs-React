@@ -10,8 +10,8 @@ Why it’s cool:
 
 👉 Want to see the magic? Here’s how to run it:
 
-bash
-bash simple_react_demo.sh  
+# bash
+bash unix_vs_react.sh  
 # Then open http://localhost:8000 🎉  
 
 Key takeaway: Sometimes, "old-school" tools like Bash and Unix utilities can deliver modern results with minimal overhead. Perfect for quick prototypes, demos, or even interview challenges!
